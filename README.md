@@ -17,8 +17,8 @@
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/your-username/eve-ai-assistant.git
-cd eve-ai-assistant
+git clone https://github.com/Piyush2102020/eve.git
+cd eve
 pip install -r requirements.txt
 ````
 

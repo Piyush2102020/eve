@@ -1,0 +1,4 @@
+requests>=2.25.1
+beautifulsoup4>=4.9.3
+python-dotenv>=0.21.0
+ollama  # this is managed by Ollama CLI; pip may not install it. Download it from official Ollama website
